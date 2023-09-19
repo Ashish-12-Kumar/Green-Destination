@@ -11,4 +11,3 @@ In this dashboard I have calculated
 * Job satisfaction Rating
 * Attrition by Monthly income
 * Attrition rate by Gender for different Age group
-#dataanalysis #dashboard #tableau #dataanalytics
